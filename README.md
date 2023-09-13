@@ -5,5 +5,5 @@
 Para rodar este projeto localmente, digite:
 
 ```
-nmp install react
+npm install react
 ```
